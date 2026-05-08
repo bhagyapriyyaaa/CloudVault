@@ -32,16 +32,12 @@ It is designed to demonstrate cloud integration, backend development, authentica
 ### Cloud Services
 - AWS S3
 - AWS IAM
-- AWS EC2
-- AWS RDS
 
 ### Database
 - PostgreSQL
 
 ### Tools
 - Git & GitHub
-- Postman
-- Docker (optional)
 
 ---
 
